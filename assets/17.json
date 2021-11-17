@@ -1,0 +1,93 @@
+{
+  "name": "Bakso Mania #17",
+  "symbol": "BAKMAN",
+  "description": "Bakso Mania is a collection of randomly generated NFTs known as Bakso Maniacs on the Solona Blockchain. Bakso traditionally is an Indonesian noodle and meat ball cuisine, but these Bakso Maniacs jumped out of the cooking pots ready to explore the world of Bakso Mania. Find out more at baksomania.com",
+  "image": "image.png",
+  "dna": "08fd9e24851924885d109de6442ca8f10c11fa93",
+  "edition": 18,
+  "date": 1636195469945,
+  "seller_fee_basis_points": 1000,
+  "collection": {
+    "name": "Bakso Maniacs",
+    "symbol": "BAKMAN",
+    "family": "Bakso Maniacs"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7Fe5ah1BWkpELzv7LVsa1LaLrPxqFiaHyZq2M4EMfpWz",
+        "share": 50
+      },
+      {
+        "address": "5bcYNytKE5CHrdsSTGMk6MPGG39bzKco5mpCa7uxSdQt",
+        "share": 33
+      },
+      {
+        "address": "5fyGqyFfkudUu1CcuXN84tdjk7NjB4Me25ZCoyL8Cqwf",
+        "share": 5
+      },
+      {
+        "address": "5pnK1cf7icBXc9x1CNjEfCesXu3CJEhw5dGtRuehQNCa",
+        "share": 12
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Blue_Tosca"
+    },
+    {
+      "trait_type": "Steam",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "None_"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Eye_Brow",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue_Tear_Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy_Hat_Grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kiss"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red_Sarong"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
